@@ -1,5 +1,7 @@
 # ![WorldGuard](worldguard-logo.png)
 
+NOW WITH LANG.YML FILE!
+
 WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 
 * Block creeper and wither block damage, falling damage, etc.;
